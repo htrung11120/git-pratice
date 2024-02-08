@@ -1,4 +1,4 @@
 In the groceries.txt file, add the following:
 - 4 tomatoes
 - 6 shallots
-- 1 fennel bulbsad 
+- 1 fennel bulbsad ád
